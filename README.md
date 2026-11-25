@@ -1,0 +1,1 @@
+[![Codeberg](README.gif)](https://codeberg.org/swigof)
